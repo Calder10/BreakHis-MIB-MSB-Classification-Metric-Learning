@@ -1,0 +1,10 @@
+AVG. ILA = 0.806380 
+AVG. PLA = 0.816791 
+AVG. Error Rate = 0.193620 
+AVG. Precision (Macro) = 0.814060 
+AVG. Precision (Micro) = 0.806380 
+AVG. Recall (Macro) = 0.738137 
+AVG. Recall (Micro) = 0.806380 
+AVG. F1-Score (Macro) = 0.755597 
+AVG. F1-Score (Micro) = 0.806380 
+AVG. AUC = 0.738137 

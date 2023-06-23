@@ -1,0 +1,10 @@
+AVG. ILA = 0.887189 SD = 0.021070 
+AVG. PLA = 0.889007 SD = 0.024190 
+AVG. Error Rate = 0.112811 SD = 0.021070 
+AVG. Precision (Macro) = 0.882469 SD = 0.027818 
+AVG. Precision (Micro) = 0.887189 SD = 0.021070 
+AVG. Recall (Macro) = 0.858724 SD = 0.020249 
+AVG. Recall (Micro) = 0.887189 SD = 0.021070 
+AVG. F1-Score (Macro) = 0.868417 SD = 0.022861 
+AVG. F1-Score (Micro) = 0.887189 SD = 0.021070 
+AVG. AUC = 0.858724 SD = 0.020249 
